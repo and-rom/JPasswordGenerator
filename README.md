@@ -1,2 +1,2 @@
 # JPasswordGenerator
-Java implementation of passwordGenerator
+Java implementation of [passwordGenerator](https://github.com/and-rom/passwordGenerator).
